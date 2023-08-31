@@ -1,0 +1,18 @@
+<section class="mt-7 mb-5 m-0-xs">
+    <div class="container">
+        <div class="row" >
+            <div class="col-12 col-md-4 col-lg-4 pt-5 pb-0 text-center">
+                <img class="w--180" src="assets/images/warning.svg" alt="Salam سلام">
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 text-center-xs">
+                <h1 class="text-green mb-3 h3-xs">
+                    الصفحة غير موجودة                </h1>
+                <p class="lead h6-xs">
+                    الصفحة التي تبحث عنها إما محذوفة أو غير موجودة !، يرجى التأكد من كتابة الرابط بشكل صحيح.                </p>
+                <a href="" class="btn btn-success btn-pill mt-4">
+                    <i class="fi fi-arrow-end"></i>
+                    العودة الى الصفحة الرئيسية                </a>
+            </div>
+        </div>
+    </div>
+</section>
